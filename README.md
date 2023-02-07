@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunairajaved
-- 👀 I’m interested in video editing, 3D modeling and animation
+- 👀 I’m interested in Automated Testing, video editing, 3D modeling and animation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate as Software Quality Assurance
 - 📫 How to reach me Github
